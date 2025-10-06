@@ -5,6 +5,7 @@ I'm passionate about leveraging AI to tackle real-world challenges in fields lik
 Email: mahdi.hosseinpour@shahroodut.ac.ir
 
 LinkedIn: http://www.linkedin.com/in/mahdi-hosseinpour-342279272
+
 GitHub: github.com/mahdi-hosseinpour
 ## Education
 M.Sc. in Artificial Intelligence Shahrood University of Technology 2023 - 2025 Graduation Score: 17.58 / 20
